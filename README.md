@@ -4,11 +4,11 @@ My favorite technologies: .NET Core, Docker, Linux, Elasticsearch, Redis.
 
 Main work project: https://digdes.ru/products/sistema-dokumentatsionnogo-upravleniya-prioritet
 
-I'm maintainer of organization github project [SoapCore](https://github.com/DigDes/SoapCore) (near 500k downloads from nuget).
+I'm maintainer of organization github project [SoapCore](https://github.com/DigDes/SoapCore) (near 1kk downloads from nuget).
 
 I have golang pet-projects. 
 
-Moreover I'm triathlete, runner. Love cycling, swimming and running. I finished 7 marathons, 3 IM 70.3 races, and swam across Bosphorus.
+Moreover I'm triathlete, runner. Love cycling, swimming and running. I finished 7 marathons, Ironman and 3 IM 70.3 races, and swam across Bosphorus.
 
 * GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
