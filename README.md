@@ -2,8 +2,6 @@
 I'm developer with 10-year experience from Russia, Saint Petersburg. 
 My favorite technologies: .NET Core, Docker, Linux, Elasticsearch, Redis. 
 
-Main work project: https://digdes.ru/products/sistema-dokumentatsionnogo-upravleniya-prioritet
-
 I'm maintainer of organization github project [SoapCore](https://github.com/DigDes/SoapCore) (near 1kk downloads from nuget).
 
 I have golang pet-projects. 
