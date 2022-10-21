@@ -2,11 +2,11 @@
 I'm developer with 10-year experience from Russia, Saint Petersburg. 
 My favorite technologies: .NET Core, Docker, Linux, Elasticsearch, Redis. 
 
-I'm maintainer of organization github project [SoapCore](https://github.com/DigDes/SoapCore) (near 1kk downloads from nuget).
+I'm maintainer of organization github project [SoapCore](https://github.com/DigDes/SoapCore) (near 2kk downloads from nuget).
 
 I have golang pet-projects. 
 
-Moreover I'm triathlete, runner. Love cycling, swimming and running. I finished 7 marathons, Ironman and 3 IM 70.3 races, and swam across Bosphorus.
+Moreover I'm triathlete, runner. Love cycling, swimming and running. I finished 7 marathons, Ironman and 6 IM 70.3 races, and swam across Bosphorus.
 
 * GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
